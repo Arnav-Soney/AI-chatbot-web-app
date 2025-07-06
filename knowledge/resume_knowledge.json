@@ -1,0 +1,115 @@
+{
+    "summary": "Aspiring Software Engineer with a background in Electronics and Communication Engineering and strong proficiency in C++, Python, Machine Learning(ML) and full-stack development. Experienced in data structures, algorithms, and building scalable systems using React, Node.js, TensorFlow, and OpenCV.",
+    "education": [
+        {
+            "institution": "Malaviya National Institute of Technology Jaipur",
+            "degree": "Electronics and Communication Engineering",
+            "duration": "May 2022 - Present",
+            "gpa": "8.18 CGPA"
+        },
+        {
+            "institution": "ANA Convent Higher Secondary School, Indore",
+            "degree": "12th Class - MPBSE Board",
+            "duration": "2020 - 2022",
+            "gpa": "90.0%"
+        }
+    ],
+    "skills": {
+        "languages": [
+            "C++",
+            "Python",
+            "C",
+            "SQL",
+            "Linux",
+            "Assembly"
+        ],
+        "technologies": [
+            "VS Code",
+            "Version Control",
+            "Machine Learning",
+            "System Design"
+        ],
+        "web_development": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React JS",
+            "Node JS",
+            "Express JS"
+        ],
+        "libraries": [
+            "NumPy",
+            "Pandas",
+            "MatPlotLib",
+            "Scikit-Learn",
+            "TensorFlow"
+        ],
+        "soft_skills": [
+            "TeamWork",
+            "Good Communication",
+            "Leadership",
+            "Project Management",
+            "Analytical Skills"
+        ]
+    },
+    "projects": [
+        {
+            "title": "Personal Portfolio Website",
+            "date": "March 2025 – May 2025",
+            "tools": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "Node.js",
+                "Express"
+            ],
+            "description": "Developed a responsive personal portfolio using HTML, CSS, and JavaScript, later enhanced with React and Redux for component-based architecture and state management. Integrated a Node.js and Express backend to handle contact form submissions, with features like smooth scrolling, animations, and mobile responsiveness."
+        },
+        {
+            "title": "Advanced Driver Assistance System",
+            "date": "April 2024 – May 2024",
+            "tools": [
+                "matplotlib",
+                "Numpy",
+                "Networkx",
+                "osmnx",
+                "OpenCV"
+            ],
+            "description": "Processed 100+ real-world road images achieving 92% lane detection accuracy with Canny Edge + Hough Transform, lane departure warnings triggered with 95% precision, reducing false alarms by 40%. Simulated PID-based Adaptive Cruise Control maintaining safe following distance within ±0.2m error; A-star path planning reduced average route length by 10.2% and path computation time by 50% over BFS."
+        },
+        {
+            "title": "OS Scheduling Algorithm",
+            "date": "Jan 2023 – March 2023",
+            "tools": [
+                "C",
+                "Python",
+                "matplotlib",
+                "pandas"
+            ],
+            "description": "Implemented and benchmarked a novel CPU scheduling algorithm(DNPFS) in C combining burst time prediction, fairness scoring, and multi-level queue priority to optimize process execution and reduce wait time. Achieved 22% lower average turnaround time and 18% fewer context switches, 98% CPU utilization, 15% faster run compared to Round Robin, Multilevel Queue schedulers, FCFS."
+        }
+    ],
+    "experience": [
+        {
+            "position": "Event Manager Lead",
+            "organization": "MNIT Jaipur",
+            "event": "Hackathon Sphinx",
+            "year": "2024",
+            "details": "Successfully organized 24Hr Hackathon as part of the Sphinx 2024 Flagship Event(The Largest Techno-Management Fest in Rajasthan) with 700+ teams registrations."
+        },
+        {
+            "position": "Member of Ideation and Event Management team",
+            "organization": "Technical Club MNIT Jaipur",
+            "event": "Sphinx 2023",
+            "details": "Core Team member of Sphinx 2023 techno-management fest"
+        }
+    ],
+    "achievements": [
+        "Ranked among the top 0.9% in Jee Mains Exam given by 1 million candidates",
+        "Codeforces: arnav.soney",
+        "LeetCode: Arnav soney",
+        "Codolio: Arnav Soney",
+        "500+ problems solved on platforms like Codeforces and LeetCode"
+    ]
+}
